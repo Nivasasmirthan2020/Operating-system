@@ -41,3 +41,10 @@ int main()
 	fclose(fptr2);
 	return 0;
 }
+output:
+Enter the filename to open for reading
+read.txt
+Enter the filename to open for writing
+write.txt
+
+Contents copied to write.txt
